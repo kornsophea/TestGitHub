@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         //test push
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Test'),
     );
   }
 }
